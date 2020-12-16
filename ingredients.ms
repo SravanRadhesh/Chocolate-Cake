@@ -1,0 +1,10 @@
+Maida/flour,
+ Cocoa powder , 
+ powdered sugar, 
+ baking powder,baking soda,
+ oil,
+curd/yogurt,
+Hot water,
+instant coffee,
+whipping cream,
+vanilla extract.
